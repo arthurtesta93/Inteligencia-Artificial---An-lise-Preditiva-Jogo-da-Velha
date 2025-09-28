@@ -1,0 +1,76 @@
+0,1,2,3,4,5,6,7,8,label_int,label
+b,b,o,o,b,x,x,x,o,0,Tem Jogo
+o,x,b,b,x,b,o,x,b,2,Fim de Jogo
+b,o,b,x,b,b,b,x,o,0,Tem Jogo
+b,b,x,x,o,o,b,b,b,0,Tem Jogo
+o,b,o,b,x,b,x,b,x,1,Possível Fim de Jogo
+b,x,o,x,o,x,o,o,x,2,Fim de Jogo
+x,x,o,o,o,x,b,o,x,1,Possível Fim de Jogo
+o,x,o,b,x,b,x,o,b,0,Tem Jogo
+o,x,x,b,o,b,x,b,o,2,Fim de Jogo
+b,o,x,b,x,b,x,b,o,2,Fim de Jogo
+x,b,x,o,o,b,o,x,x,1,Possível Fim de Jogo
+b,b,o,x,b,x,o,x,o,1,Possível Fim de Jogo
+b,b,o,x,x,o,o,x,b,1,Possível Fim de Jogo
+b,o,b,x,o,x,b,x,b,0,Tem Jogo
+b,b,b,o,b,b,x,x,o,0,Tem Jogo
+o,x,o,o,b,x,x,b,b,0,Tem Jogo
+b,b,o,b,b,x,x,x,o,0,Tem Jogo
+x,x,b,x,b,o,b,o,o,1,Possível Fim de Jogo
+x,b,o,x,b,o,b,x,o,2,Fim de Jogo
+b,o,b,x,o,o,x,x,x,2,Fim de Jogo
+o,b,o,b,o,x,x,b,x,1,Possível Fim de Jogo
+b,x,b,x,x,o,o,b,o,1,Possível Fim de Jogo
+b,o,x,b,x,b,o,b,b,0,Tem Jogo
+x,o,o,o,b,b,x,x,b,1,Possível Fim de Jogo
+x,x,o,o,o,x,x,b,x,1,Possível Fim de Jogo
+x,b,x,o,b,o,o,x,x,1,Possível Fim de Jogo
+b,x,b,b,b,b,o,b,b,0,Tem Jogo
+x,o,o,x,x,o,x,b,b,2,Fim de Jogo
+b,x,x,b,b,b,b,o,o,1,Possível Fim de Jogo
+o,o,b,o,x,b,x,b,x,1,Possível Fim de Jogo
+x,o,b,x,b,o,x,o,x,2,Fim de Jogo
+x,x,x,o,o,b,b,o,x,2,Fim de Jogo
+x,o,b,o,b,x,b,b,b,0,Tem Jogo
+x,o,o,b,x,o,x,b,x,2,Fim de Jogo
+x,o,o,x,x,b,o,b,b,1,Possível Fim de Jogo
+o,x,o,x,o,o,x,x,x,2,Fim de Jogo
+b,b,x,x,b,o,b,o,x,0,Tem Jogo
+x,o,o,o,x,x,x,x,o,2,Fim de Jogo
+o,b,x,b,b,b,b,b,b,0,Tem Jogo
+x,o,b,b,b,b,o,x,b,0,Tem Jogo
+x,o,x,o,b,o,b,x,x,1,Possível Fim de Jogo
+b,b,b,x,o,b,b,b,x,0,Tem Jogo
+x,x,x,b,o,o,b,o,x,2,Fim de Jogo
+o,x,b,o,b,x,x,o,b,0,Tem Jogo
+b,b,o,x,x,b,b,x,o,1,Possível Fim de Jogo
+b,x,o,o,x,b,o,x,x,2,Fim de Jogo
+x,x,o,o,b,o,x,x,o,2,Fim de Jogo
+b,o,b,x,o,b,x,b,b,1,Possível Fim de Jogo
+x,x,b,o,x,o,b,x,o,2,Fim de Jogo
+x,b,o,b,b,x,b,o,b,0,Tem Jogo
+x,b,x,o,x,o,b,b,o,1,Possível Fim de Jogo
+o,x,b,b,x,b,o,b,x,1,Possível Fim de Jogo
+b,o,x,x,x,b,o,o,b,1,Possível Fim de Jogo
+o,x,b,b,b,x,o,o,x,1,Possível Fim de Jogo
+x,b,o,b,b,x,b,x,o,0,Tem Jogo
+o,x,o,x,b,x,x,o,x,1,Possível Fim de Jogo
+o,o,x,x,x,x,o,b,b,2,Fim de Jogo
+b,b,b,o,o,b,x,x,x,2,Fim de Jogo
+o,b,b,x,b,b,x,b,b,0,Tem Jogo
+x,b,o,o,o,b,x,b,x,1,Possível Fim de Jogo
+x,x,o,o,o,o,x,x,b,2,Fim de Jogo
+o,x,o,b,x,x,b,x,o,2,Fim de Jogo
+o,o,x,x,b,x,o,b,x,2,Fim de Jogo
+o,x,x,b,o,x,o,b,b,1,Possível Fim de Jogo
+b,b,x,o,x,o,b,x,o,1,Possível Fim de Jogo
+b,b,b,x,o,b,b,x,b,0,Tem Jogo
+x,o,x,o,o,b,x,o,x,2,Fim de Jogo
+x,o,x,b,b,o,b,x,o,0,Tem Jogo
+x,x,o,o,b,b,b,b,b,0,Tem Jogo
+b,b,b,b,b,x,b,x,o,0,Tem Jogo
+o,x,b,b,x,b,b,o,x,0,Tem Jogo
+o,x,x,o,o,x,b,x,o,2,Fim de Jogo
+x,b,o,x,o,b,o,x,b,2,Fim de Jogo
+b,x,b,x,b,o,b,b,b,0,Tem Jogo
+o,b,b,o,x,b,o,x,x,2,Fim de Jogo
